@@ -12,45 +12,6 @@ This project is a sleek and modern coffee cafe website built using React and Tai
 <li>Tailwind CSS: A utility-first CSS framework for rapid UI development.
 <li>CSS: Custom styling for unique design elements.
 
-## Getting Started:
-To get a local copy up and running, follow these simple steps.
-
-## Prerequisites:
-Ensure you have the following installed:
-
-Node.js (v12.x or later)<br>
-
-npm (v6.x or later) or yarn (v1.x or later)
-
-## Installation:
-Clone the repository:
-```
-git clone https://github.com/H1mang1/Mocha-Magic.git
-```
-
-Navigate to the project directory:
-```
-cd Mocha-Magic
-```
-Install the dependencies:
-```
-npm install
-```
-or
-```
-yarn install
-```
-## Usage
-To start the development server:
-```
-npm start
-```
-or
-```
-yarn start
-```
-Open http://localhost:3000 to view it in the browser.
-
 ## Preview
 
 https://github.com/user-attachments/assets/cb62c931-8be1-4b0e-be94-678a2e7bfecd
