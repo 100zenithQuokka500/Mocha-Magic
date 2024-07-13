@@ -30,7 +30,7 @@ git clone https://github.com/H1mang1/Mocha-Magic.git
 
 Navigate to the project directory:
 ```
-cd mocha-magic
+cd Mocha-Magic
 ```
 Install the dependencies:
 ```
