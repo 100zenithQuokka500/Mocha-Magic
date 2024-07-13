@@ -52,6 +52,9 @@ yarn start
 Open http://localhost:3000 to view it in the browser.
 
 ## Preview
-![Screenshot 2024-07-13 094742](https://github.com/user-attachments/assets/5a1a65aa-0878-40ff-bb49-5e831aba990b)
+
+https://github.com/user-attachments/assets/cb62c931-8be1-4b0e-be94-678a2e7bfecd
+
+
 
 
