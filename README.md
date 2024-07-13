@@ -25,7 +25,7 @@ npm (v6.x or later) or yarn (v1.x or later)
 ## Installation:
 Clone the repository:
 ```
-git clone https://github.com/your-username/mocha-magic.git
+git clone https://github.com/H1mang1/Mocha-Magic.git
 ```
 
 Navigate to the project directory:
